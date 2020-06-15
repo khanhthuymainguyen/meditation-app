@@ -1,2 +1,2 @@
 # meditation-app
-Meditation app tutorial
+Meditation app tutorial from: https://www.youtube.com/watch?v=oMBXdZzYqEk
